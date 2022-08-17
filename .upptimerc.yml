@@ -9,17 +9,17 @@ sites:
   - name: monero.com
     url: https://monero.com
     icon: https://i.imgur.com/WxsaoFP.png
-  - name: xmr-node.cakewallet.com
+  - name: xmr-node.cakewallet.com:18081
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
-  - name: electrum.cakewallet.com
+  - name: electrum.cakewallet.com:50002
     check: "tcp-ping"
     url: electrum.cakewallet.com
     port: 50002
     icon: https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg
-  - name: ltc-electrum.cakewallet.com
+  - name: ltc-electrum.cakewallet.com:50002
     check: "tcp-ping"
     url: ltc-electrum.cakewallet.com
     port: 50002
