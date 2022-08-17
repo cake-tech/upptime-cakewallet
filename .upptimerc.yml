@@ -1,6 +1,6 @@
 # Change these first
 owner: cake-tech # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: upptime-cakewallet # The name of this repository
 
 sites:
   - name: cakewallet.com
@@ -25,11 +25,14 @@ sites:
     port: 50002
     icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
 
+assignees:
+  - tannerdsilva
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.cakewallet.com
+  # baseUrl: /upptime-cakewallet
   logoUrl: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
   favicon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
   name: Cake Wallet Status
