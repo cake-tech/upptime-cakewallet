@@ -5,25 +5,25 @@ repo: upptime # The name of this repository
 sites:
   - name: cakewallet.com
     url: https://cakewallet.com
-    icon: /assets/logo.ico
+    icon: /assets/cakewallet.png
   - name: monero.com
     url: https://monero.com
-    icon: /assets/logo.ico
+    icon: /assets/monerocom.png
   - name: xmr-node.cakewallet.com
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
     port: 18081
-    icon: /assets/logo.ico
+    icon: /assets/monero.png
   - name: electrum.cakewallet.com
     check: "tcp-ping"
     url: electrum.cakewallet.com
     port: 50002
-    icon: /assets/logo.ico
+    icon: /assets/bitcoin.png
   - name: ltc-electrum.cakewallet.com
     check: "tcp-ping"
     url: ltc-electrum.cakewallet.com
     port: 50002
-    icon: /assets/logo.ico
+    icon: /assets/litecoin.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,9 +32,9 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
   favicon: 
-  name: Cake Wallet Nodes
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a work in progress page.
+  name: Cake Wallet Status
+  introTitle: "Cake Wallet Service Status"
+  introMessage: Service status is updated approximately every 5-10 minutes.
   theme: light
   navbar:
     - title: Twitter
