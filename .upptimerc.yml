@@ -5,20 +5,25 @@ repo: upptime # The name of this repository
 sites:
   - name: cakewallet.com
     url: https://cakewallet.com
+    icon: /assets/logo.ico
   - name: monero.com
     url: https://monero.com
+    icon: /assets/logo.ico
   - name: xmr-node.cakewallet.com
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
     port: 18081
+    icon: /assets/logo.ico
   - name: electrum.cakewallet.com
     check: "tcp-ping"
     url: electrum.cakewallet.com
     port: 50002
+    icon: /assets/logo.ico
   - name: ltc-electrum.cakewallet.com
     check: "tcp-ping"
     url: ltc-electrum.cakewallet.com
     port: 50002
+    icon: /assets/logo.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
