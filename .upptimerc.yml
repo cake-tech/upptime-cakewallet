@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: cakewallet.com
     url: https://cakewallet.com
-    icon: /assets/cakewallet.png
+    icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
   - name: monero.com
     url: https://monero.com
     icon: /assets/monerocom.png
@@ -31,7 +31,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
-  favicon: /assets/cakewallet.png
+  favicon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
   name: Cake Wallet Status
   introTitle: "Cake Wallet Service Status"
   introMessage: Service status is updated approximately every 5-10 minutes.
