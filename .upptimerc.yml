@@ -37,7 +37,7 @@ status-website:
   favicon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
   name: Cake Wallet Status
   introTitle: "Cake Wallet Service Status"
-  introMessage: Service status is updated approximately every 5-10 minutes.
+  introMessage: Service status is updated approximately every 5-30 minutes.
   theme: light
   navbar:
     - title: Twitter
