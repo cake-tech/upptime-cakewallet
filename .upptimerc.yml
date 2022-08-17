@@ -8,22 +8,22 @@ sites:
     icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
   - name: monero.com
     url: https://monero.com
-    icon: /assets/monerocom.png
+    icon: https://i.imgur.com/WxsaoFP.png
   - name: xmr-node.cakewallet.com
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
     port: 18081
-    icon: /assets/monero.png
+    icon: https://i.imgur.com/Pr74gsI.png
   - name: electrum.cakewallet.com
     check: "tcp-ping"
     url: electrum.cakewallet.com
     port: 50002
-    icon: /assets/bitcoin.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg
   - name: ltc-electrum.cakewallet.com
     check: "tcp-ping"
     url: ltc-electrum.cakewallet.com
     port: 50002
-    icon: /assets/litecoin.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
