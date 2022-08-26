@@ -4,18 +4,20 @@
     "url": "https://cakewallet.com",
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "cakewallet-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
     "timeDay": 343,
-    "timeWeek": 310,
+    "timeWeek": 330,
     "timeMonth": 288,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "monero.com",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 459,
     "timeDay": 375,
-    "timeWeek": 333,
+    "timeWeek": 327,
     "timeMonth": 459,
     "timeYear": 459,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 196,
-    "timeWeek": 240,
+    "timeWeek": 212,
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 190,
-    "timeWeek": 96,
+    "timeWeek": 106,
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 139,
-    "timeWeek": 158,
+    "timeWeek": 154,
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {}
