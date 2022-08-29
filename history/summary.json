@@ -4,19 +4,19 @@
     "url": "https://cakewallet.com",
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "cakewallet-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 127,
-    "timeWeek": 378,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 287,
+    "timeDay": 138,
+    "timeWeek": 353,
+    "timeMonth": 287,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2022-08-29": 0
+      "2022-08-29": 21
     }
   },
   {
