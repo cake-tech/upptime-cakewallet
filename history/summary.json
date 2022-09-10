@@ -96,9 +96,9 @@
     "url": "$XMR_ASIA",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-10": 0
+    }
   },
   {
     "name": "XMR EU Servers",
