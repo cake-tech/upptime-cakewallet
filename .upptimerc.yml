@@ -6,42 +6,58 @@ sites:
   - name: cakewallet.com
     url: https://cakewallet.com
     icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
+    asignees:
+      - samsunggalaxyplayer
   - name: monero.com
     url: https://monero.com
     icon: https://i.imgur.com/WxsaoFP.png
+    assignees:
+      - tannerdsilva
   - name: xmr-node.cakewallet.com:18081
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
   - name: electrum.cakewallet.com:50002
     check: "tcp-ping"
     url: electrum.cakewallet.com
     port: 50002
     icon: https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg
+    assignees:
+      - tannerdsilva
   - name: ltc-electrum.cakewallet.com:50002
     check: "tcp-ping"
     url: ltc-electrum.cakewallet.com
     port: 50002
     icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
+    assignees:
+      - tannerdsilva
   - name: XMR Asia Servers
     check: "tcp-ping"
     url: $XMR_ASIA
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
   - name: XMR EU Servers
     check: "tcp-ping"
     url: $XMR_EU
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
   - name: XMR USA Servers
     check: "tcp-ping"
     url: $XMR_USA
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
 
 assignees:
-  - tannerdsilva
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
