@@ -43,9 +43,9 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 143,
     "timeMonth": 127,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-01": 0
+    }
   },
   {
     "name": "electrum.cakewallet.com:50002",
@@ -98,11 +100,11 @@
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-asia-servers",
     "status": "up",
-    "uptime": "92.16%",
+    "uptime": "92.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.16%",
-    "uptimeYear": "92.16%",
+    "uptimeMonth": "92.17%",
+    "uptimeYear": "92.17%",
     "time": 201,
     "timeDay": 197,
     "timeWeek": 195,
