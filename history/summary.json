@@ -25,19 +25,19 @@
     "url": "https://monero.com",
     "icon": "https://i.imgur.com/WxsaoFP.png",
     "slug": "monero-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 304,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 381,
+    "timeDay": 307,
     "timeWeek": 304,
-    "timeMonth": 325,
-    "timeYear": 382,
+    "timeMonth": 324,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2022-11-01": 0
+      "2022-11-01": 22
     }
   },
   {
