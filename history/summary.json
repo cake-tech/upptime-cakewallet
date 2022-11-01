@@ -25,9 +25,9 @@
     "url": "https://monero.com",
     "icon": "https://i.imgur.com/WxsaoFP.png",
     "slug": "monero-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 304,
     "timeMonth": 325,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-01": 0
+    }
   },
   {
     "name": "xmr-node.cakewallet.com:18081",
@@ -47,12 +49,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 142,
     "timeDay": 75,
     "timeWeek": 100,
-    "timeMonth": 111,
+    "timeMonth": 108,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2022-10-01": 25
