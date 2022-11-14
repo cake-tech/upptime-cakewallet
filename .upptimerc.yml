@@ -34,27 +34,27 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
     assignees:
       - tannerdsilva
-#  - name: XMR Asia Servers
-#    check: "tcp-ping"
-#    url: $XMR_ASIA
-#    port: 18081
-#    icon: https://i.imgur.com/Pr74gsI.png
-#    assignees:
-#      - tannerdsilva
-#  - name: XMR EU Servers
-#    check: "tcp-ping"
-#    url: $XMR_EU
-#    port: 18081
-#    icon: https://i.imgur.com/Pr74gsI.png
-#    assignees:
-#      - tannerdsilva
-#  - name: XMR USA Servers
-#    check: "tcp-ping"
-#    url: $XMR_USA
-#    port: 18081
-#    icon: https://i.imgur.com/Pr74gsI.png
-#    assignees:
-#      - tannerdsilva
+  - name: XMR Asia Servers
+    check: "tcp-ping"
+    url: $XMR_ASIA
+    port: 18081
+    icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
+  - name: XMR EU Servers
+    check: "tcp-ping"
+    url: $XMR_EU
+    port: 18081
+    icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
+  - name: XMR USA Servers
+    check: "tcp-ping"
+    url: $XMR_USA
+    port: 18081
+    icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
 
 assignees:
 
