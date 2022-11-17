@@ -28,12 +28,12 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.26%",
+    "uptimeWeek": "96.69%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.70%",
     "time": 652,
     "timeDay": 349,
-    "timeWeek": 2521,
+    "timeWeek": 2673,
     "timeMonth": 1100,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -103,11 +103,11 @@
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-asia-servers",
     "status": "up",
-    "uptime": "17.37%",
+    "uptime": "22.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.37%",
+    "uptimeYear": "22.12%",
     "time": 205,
     "timeDay": 178,
     "timeWeek": 191,
@@ -125,27 +125,29 @@
     "url": "$XMR_EU",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-eu-servers",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 117,
     "timeDay": 156,
     "timeWeek": 138,
     "timeMonth": 123,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-17": 1
+    }
   },
   {
     "name": "XMR USA Servers",
     "url": "$XMR_USA",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,6 +156,8 @@
     "timeWeek": 41,
     "timeMonth": 48,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-17": 0
+    }
   }
 ]
