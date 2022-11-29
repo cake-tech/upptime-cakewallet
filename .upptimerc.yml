@@ -34,6 +34,13 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
     assignees:
       - tannerdsilva
+  - name: cakexmrl7bonq7ovjka5kuwuyd3f7qnkz6z6s6dmsy3uckwra7bvggyd.onion:18081
+    check: "tcp-ping"
+    url: $XMR_ONION
+    port: 18081
+    icon: https://i.imgur.com/Pr74gsI.png
+    assignees:
+      - tannerdsilva
   - name: XMR Asia Servers
     check: "tcp-ping"
     url: $XMR_ASIA
