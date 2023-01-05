@@ -69,9 +69,9 @@
     "url": "electrum.cakewallet.com",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg",
     "slug": "electrum-cakewallet-com-50002",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,7 +80,9 @@
     "timeWeek": 69,
     "timeMonth": 87,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-05": 0
+    }
   },
   {
     "name": "ltc-electrum.cakewallet.com:50002",
@@ -124,11 +126,11 @@
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-asia-servers",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.29%",
     "time": 208,
     "timeDay": 180,
     "timeWeek": 211,
