@@ -13,6 +13,11 @@ sites:
     icon: https://i.imgur.com/WxsaoFP.png
     assignees:
       - tannerdsilva
+  - name: buy.cakepay.com
+    url: https://buy.cakepay.com
+    icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
+    assignees:
+      - tannerdsilva
   - name: xmr-node.cakewallet.com:18081
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
