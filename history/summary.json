@@ -49,19 +49,19 @@
     "url": "https://buy.cakepay.com",
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "buy-cakepay-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 290,
-    "timeWeek": 393,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 773,
+    "timeDay": 373,
+    "timeWeek": 407,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2023-04-14": 0
+      "2023-04-14": 35
     }
   },
   {
