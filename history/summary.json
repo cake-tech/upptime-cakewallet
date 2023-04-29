@@ -114,19 +114,19 @@
     "url": "ltc-electrum.cakewallet.com",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png",
     "slug": "ltc-electrum-cakewallet-com-50002",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 186,
-    "timeWeek": 166,
-    "timeMonth": 169,
-    "timeYear": 165,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 166,
+    "timeDay": 207,
+    "timeWeek": 174,
+    "timeMonth": 171,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2023-04-29": 0
+      "2023-04-29": 26
     }
   },
   {
