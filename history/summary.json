@@ -119,9 +119,9 @@
     "slug": "ltc-electrum-cakewallet-com-50002",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 165,
     "timeDay": 290,
@@ -129,7 +129,7 @@
     "timeMonth": 163,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-06-02": 0,
+      "2023-06-02": 3,
       "2023-05-02": 19,
       "2023-04-29": 26
     }
