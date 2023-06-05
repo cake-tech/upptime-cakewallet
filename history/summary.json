@@ -181,9 +181,9 @@
     "url": "$XMR_EU",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-eu-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,6 +193,7 @@
     "timeMonth": 111,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2023-06-05": 0,
       "2023-04-10": 8,
       "2022-11-17": 5
     }
