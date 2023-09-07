@@ -1,7 +1,7 @@
 url: https://monero.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-07T03:33:27.690Z
+status: up
+code: 200
+responseTime: 23725
+lastUpdated: 2023-09-07T03:40:23.638Z
 startTime: 2022-08-17T14:52:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
