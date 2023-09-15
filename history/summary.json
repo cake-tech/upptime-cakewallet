@@ -163,18 +163,20 @@
     "url": "https://exchange-helper.cakewallet.com/api/health",
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "exchange-helper",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 298,
-    "timeWeek": 392,
-    "timeMonth": 351,
-    "timeYear": 351,
-    "dailyMinutesDown": {}
+    "time": 338,
+    "timeDay": 203,
+    "timeWeek": 357,
+    "timeMonth": 338,
+    "timeYear": 338,
+    "dailyMinutesDown": {
+      "2023-09-15": 0
+    }
   },
   {
     "name": "XMR Asia Servers",
@@ -216,7 +218,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.53%",
     "time": 115,
-    "timeDay": 90,
+    "timeDay": 92,
     "timeWeek": 103,
     "timeMonth": 111,
     "timeYear": 115,
