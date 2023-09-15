@@ -163,19 +163,19 @@
     "url": "https://exchange-helper.cakewallet.com/api/health",
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "exchange-helper",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 203,
-    "timeWeek": 357,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 350,
+    "timeDay": 322,
+    "timeWeek": 379,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 8
     }
   },
   {
