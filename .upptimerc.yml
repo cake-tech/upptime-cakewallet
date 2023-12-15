@@ -7,17 +7,17 @@ sites:
     url: https://cakewallet.com
     icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
     asignees:
-      - samsunggalaxyplayer
+      - tuxpizza
   - name: monero.com
     url: https://monero.com
     icon: https://i.imgur.com/WxsaoFP.png
     assignees:
-      - tannerdsilva
+      - tuxpizza
   - name: buy.cakepay.com
     url: https://buy.cakepay.com
     icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
     assignees:
-      - tannerdsilva
+      - tuxpizza
   - name: xmr-node.cakewallet.com:18081
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
