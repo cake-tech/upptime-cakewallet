@@ -39,13 +39,6 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
     assignees:
       - tannerdsilva
-  - name: cakexmrl7bonq7ovjka5kuwuyd3f7qnkz6z6s6dmsy3uckwra7bvggyd.onion:18081
-    check: "tcp-ping"
-    url: $XMR_ONION
-    port: 18081
-    icon: https://i.imgur.com/Pr74gsI.png
-    assignees:
-      - tannerdsilva
   - name: Exchange Helper
     url: https://exchange-helper.cakewallet.com/api/health
     icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
