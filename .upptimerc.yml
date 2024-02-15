@@ -24,21 +24,18 @@ sites:
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
-      - tannerdsilva
   - name: electrum.cakewallet.com:50002
     check: "tcp-ping"
     url: electrum.cakewallet.com
     port: 50002
     icon: https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg
     assignees:
-      - tannerdsilva
   - name: ltc-electrum.cakewallet.com:50002
     check: "tcp-ping"
     url: ltc-electrum.cakewallet.com
     port: 50002
     icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
     assignees:
-      - tannerdsilva
   - name: Exchange Helper
     url: https://exchange-helper.cakewallet.com/api/health
     icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
@@ -52,21 +49,18 @@ sites:
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
-      - tannerdsilva
   - name: XMR EU Servers
     check: "tcp-ping"
     url: $XMR_EU
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
-      - tannerdsilva
   - name: XMR USA Servers
     check: "tcp-ping"
     url: $XMR_USA
     port: 18081
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
-      - tannerdsilva
 
 assignees:
 
