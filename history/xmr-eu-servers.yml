@@ -1,7 +1,7 @@
 url: $XMR_EU
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-28T05:48:11.868Z
+status: up
+code: 200
+responseTime: 89
+lastUpdated: 2024-02-28T05:56:05.579Z
 startTime: 2022-11-14T16:37:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
