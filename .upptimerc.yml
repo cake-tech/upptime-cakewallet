@@ -22,6 +22,7 @@ sites:
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
     port: 18081
+    maxResponseTime: 60000
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
   - name: electrum.cakewallet.com:50002
@@ -47,18 +48,21 @@ sites:
     check: "tcp-ping"
     url: $XMR_ASIA
     port: 18081
+    maxResponseTime: 60000
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
   - name: XMR EU Servers
     check: "tcp-ping"
     url: $XMR_EU
     port: 18081
+    maxResponseTime: 60000
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
   - name: XMR USA Servers
     check: "tcp-ping"
     url: $XMR_USA
     port: 18081
+    maxResponseTime: 60000
     icon: https://i.imgur.com/Pr74gsI.png
     assignees:
 
