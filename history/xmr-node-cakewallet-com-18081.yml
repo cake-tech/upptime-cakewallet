@@ -1,7 +1,7 @@
 url: xmr-node.cakewallet.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-08T09:01:44.269Z
+status: up
+code: 200
+responseTime: 210
+lastUpdated: 2024-03-08T09:21:16.311Z
 startTime: 2022-08-17T17:41:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
