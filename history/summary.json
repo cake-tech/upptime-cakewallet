@@ -231,13 +231,13 @@
     "url": "$XMR_EU",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-eu-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "39.08%",
+    "uptimeDay": "39.76%",
     "uptimeWeek": "85.58%",
     "uptimeMonth": "96.09%",
     "uptimeYear": "99.65%",
-    "time": 113,
+    "time": 112,
     "timeDay": 109,
     "timeWeek": 118,
     "timeMonth": 113,
@@ -274,8 +274,7 @@
       "2024-02-04": 8,
       "2024-02-03": 10,
       "2024-01-29": 10,
-      "2024-01-24": 11,
-      "2024-01-17": 8
+      "2024-01-24": 11
     }
   },
   {
@@ -285,7 +284,7 @@
     "slug": "xmr-usa-servers",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "56.31%",
+    "uptimeDay": "57.01%",
     "uptimeWeek": "90.08%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "99.19%",
