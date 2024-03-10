@@ -191,7 +191,7 @@
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-asia-servers",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.79%",
     "uptimeMonth": "98.20%",
@@ -232,14 +232,14 @@
     "url": "$XMR_EU",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-eu-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "93.36%",
-    "uptimeWeek": "81.98%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "81.97%",
     "uptimeMonth": "95.20%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 113,
-    "timeDay": 100,
+    "timeDay": 103,
     "timeWeek": 116,
     "timeMonth": 112,
     "timeYear": 111,
@@ -269,7 +269,7 @@
       "2024-02-14": 8,
       "2024-02-13": 19,
       "2024-02-09": 16,
-      "2024-02-08": 19
+      "2024-02-08": 10
     }
   },
   {
