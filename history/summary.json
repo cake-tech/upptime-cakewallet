@@ -85,12 +85,12 @@
     "slug": "xmr-node-cakewallet-com-18081",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.45%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "99.58%",
     "time": 89,
-    "timeDay": 41,
+    "timeDay": 68,
     "timeWeek": 92,
     "timeMonth": 72,
     "timeYear": 82,
@@ -232,9 +232,9 @@
     "url": "$XMR_EU",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-eu-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "70.05%",
+    "uptimeDay": "76.51%",
     "uptimeWeek": "82.10%",
     "uptimeMonth": "95.30%",
     "uptimeYear": "99.59%",
@@ -271,7 +271,7 @@
       "2024-02-09": 16,
       "2024-02-08": 30,
       "2024-02-07": 11,
-      "2024-02-06": 24
+      "2024-02-06": 16
     }
   },
   {
