@@ -232,11 +232,11 @@
     "url": "$XMR_EU",
     "icon": "https://i.imgur.com/Pr74gsI.png",
     "slug": "xmr-eu-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "93.52%",
+    "uptimeDay": "93.51%",
     "uptimeWeek": "81.77%",
-    "uptimeMonth": "95.14%",
+    "uptimeMonth": "95.13%",
     "uptimeYear": "99.59%",
     "time": 113,
     "timeDay": 90,
@@ -269,7 +269,7 @@
       "2024-02-15": 12,
       "2024-02-14": 8,
       "2024-02-13": 19,
-      "2024-02-09": 16
+      "2024-02-09": 8
     }
   },
   {
