@@ -131,9 +131,9 @@
     "slug": "electrum-cakewallet-com-50002",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 60,
     "timeDay": 34,
@@ -141,7 +141,7 @@
     "timeMonth": 27,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-06-19": 0,
+      "2024-06-19": 5,
       "2023-12-20": 158
     }
   },
