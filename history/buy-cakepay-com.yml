@@ -1,7 +1,7 @@
 url: https://buy.cakepay.com
-status: up
-code: 200
-responseTime: 205
-lastUpdated: 2024-07-03T06:42:23.021Z
+status: down
+code: 502
+responseTime: 171
+lastUpdated: 2024-07-03T07:18:57.920Z
 startTime: 2023-03-20T16:22:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
