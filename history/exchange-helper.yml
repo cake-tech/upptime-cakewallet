@@ -1,7 +1,7 @@
 url: https://exchange-helper.cakewallet.com/api/health
-status: up
-code: 200
-responseTime: 6311
-lastUpdated: 2024-07-03T01:43:57.485Z
+status: down
+code: 502
+responseTime: 215
+lastUpdated: 2024-07-03T02:55:54.103Z
 startTime: 2023-08-31T16:19:05.553Z
 generator: Upptime <https://github.com/upptime/upptime>
