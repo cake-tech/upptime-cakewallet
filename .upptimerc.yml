@@ -43,7 +43,6 @@ sites:
     expectedStatusCodes:
       - 200
     assignees:
-      - konstantinullrich
   - name: XMR Asia Servers
     check: "tcp-ping"
     url: $XMR_ASIA
