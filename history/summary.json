@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.92%",
+    "uptimeWeek": "60.04%",
     "uptimeMonth": "90.37%",
     "uptimeYear": "98.77%",
     "time": 2793,
@@ -104,11 +104,11 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "./assets/monero.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "76.33%",
-    "uptimeWeek": "87.09%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "76.14%",
+    "uptimeWeek": "87.13%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "99.75%",
     "time": 64,
     "timeDay": 31,
@@ -116,11 +116,11 @@
     "timeMonth": 36,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2024-07-09": 290,
+      "2024-07-09": 293,
       "2024-07-08": 327,
       "2024-07-07": 309,
       "2024-07-06": 353,
-      "2024-07-05": 25
+      "2024-07-05": 18
     }
   },
   {
@@ -212,11 +212,11 @@
     "url": "$XMR_ASIA",
     "icon": "assets/monero.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "78.30%",
-    "uptimeWeek": "88.32%",
-    "uptimeMonth": "97.31%",
+    "uptimeDay": "78.19%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "99.78%",
     "time": 102,
     "timeDay": 31,
@@ -224,11 +224,11 @@
     "timeMonth": 36,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2024-07-09": 267,
+      "2024-07-09": 269,
       "2024-07-08": 294,
       "2024-07-07": 279,
       "2024-07-06": 323,
-      "2024-07-05": 21
+      "2024-07-05": 16
     }
   },
   {
@@ -268,11 +268,11 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "80.21%",
-    "uptimeWeek": "89.55%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "80.18%",
+    "uptimeWeek": "89.59%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "99.80%",
     "time": 34,
     "timeDay": 32,
@@ -284,7 +284,7 @@
       "2024-07-08": 257,
       "2024-07-07": 245,
       "2024-07-06": 286,
-      "2024-07-05": 18
+      "2024-07-05": 14
     }
   }
 ]
