@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.62%",
+    "uptimeWeek": "74.82%",
     "uptimeMonth": "90.37%",
     "uptimeYear": "98.77%",
     "time": 2793,
@@ -80,12 +80,12 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "98.80%",
-    "uptimeWeek": "75.10%",
+    "uptimeWeek": "75.28%",
     "uptimeMonth": "91.83%",
     "uptimeYear": "99.31%",
     "time": 523,
     "timeDay": 5245,
-    "timeWeek": 1336,
+    "timeWeek": 1392,
     "timeMonth": 975,
     "timeYear": 554,
     "dailyMinutesDown": {
@@ -105,11 +105,11 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "./assets/monero.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "76.32%",
-    "uptimeWeek": "86.95%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "76.88%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "97.01%",
     "uptimeYear": "99.75%",
     "time": 65,
     "timeDay": 30,
@@ -117,11 +117,11 @@
     "timeMonth": 35,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-07-10": 296,
+      "2024-07-10": 299,
       "2024-07-09": 348,
       "2024-07-08": 327,
       "2024-07-07": 309,
-      "2024-07-06": 41
+      "2024-07-06": 32
     }
   },
   {
@@ -214,23 +214,23 @@
     "url": "$XMR_ASIA",
     "icon": "assets/monero.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "78.49%",
-    "uptimeWeek": "88.17%",
-    "uptimeMonth": "97.28%",
+    "uptimeDay": "79.04%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "99.77%",
-    "time": 89,
-    "timeDay": 30,
+    "time": 105,
+    "timeDay": 31,
     "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2024-07-10": 267,
+      "2024-07-10": 269,
       "2024-07-09": 318,
       "2024-07-08": 294,
       "2024-07-07": 279,
-      "2024-07-06": 38
+      "2024-07-06": 30
     }
   },
   {
@@ -270,14 +270,14 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "80.66%",
-    "uptimeWeek": "89.41%",
-    "uptimeMonth": "97.56%",
+    "uptimeDay": "81.20%",
+    "uptimeWeek": "89.47%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.80%",
     "time": 34,
-    "timeDay": 30,
+    "timeDay": 31,
     "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 35,
@@ -286,7 +286,7 @@
       "2024-07-09": 287,
       "2024-07-08": 257,
       "2024-07-07": 245,
-      "2024-07-06": 34
+      "2024-07-06": 27
     }
   }
 ]
