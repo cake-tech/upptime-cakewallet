@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.24%",
+    "uptimeWeek": "96.41%",
     "uptimeMonth": "90.40%",
     "uptimeYear": "98.77%",
     "time": 2794,
@@ -80,7 +80,7 @@
     "status": "up",
     "uptime": "99.45%",
     "uptimeDay": "94.32%",
-    "uptimeWeek": "93.88%",
+    "uptimeWeek": "94.05%",
     "uptimeMonth": "91.64%",
     "uptimeYear": "99.30%",
     "time": 562,
@@ -182,9 +182,9 @@
     "url": "https://exchange-helper.cakewallet.com/api/health",
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "exchange-helper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "90.38%",
+    "uptimeDay": "90.36%",
     "uptimeWeek": "64.36%",
     "uptimeMonth": "90.71%",
     "uptimeYear": "99.10%",
@@ -207,8 +207,7 @@
       "2024-07-02": 8,
       "2024-05-13": 8,
       "2024-04-10": 8,
-      "2024-03-20": 12,
-      "2024-01-15": 10
+      "2024-03-20": 12
     }
   },
   {
