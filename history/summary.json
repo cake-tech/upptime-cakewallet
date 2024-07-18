@@ -79,10 +79,10 @@
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "buy-cakepay-com",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "92.05%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "91.12%",
+    "uptime": "99.42%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "91.05%",
     "uptimeYear": "99.25%",
     "time": 554,
     "timeDay": 406,
@@ -90,7 +90,7 @@
     "timeMonth": 1132,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-07-18": 115,
+      "2024-07-18": 149,
       "2024-07-17": 25,
       "2024-07-16": 56,
       "2024-07-15": 14,
@@ -276,11 +276,11 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "80.83%",
-    "uptimeWeek": "89.56%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "80.80%",
+    "uptimeWeek": "89.72%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "99.80%",
     "time": 34,
     "timeDay": 35,
@@ -292,7 +292,7 @@
       "2024-07-17": 242,
       "2024-07-16": 276,
       "2024-07-15": 227,
-      "2024-07-14": 101
+      "2024-07-14": 85
     }
   }
 ]
