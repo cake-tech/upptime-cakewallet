@@ -112,23 +112,23 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "./assets/monero.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "78.74%",
-    "uptimeWeek": "87.74%",
-    "uptimeMonth": "97.18%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "80.58%",
+    "uptimeWeek": "87.81%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "99.77%",
     "time": 58,
-    "timeDay": 39,
-    "timeWeek": 34,
+    "timeDay": 42,
+    "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2024-07-18": 246,
+      "2024-07-18": 249,
       "2024-07-17": 308,
       "2024-07-16": 339,
       "2024-07-15": 291,
-      "2024-07-14": 56
+      "2024-07-14": 47
     }
   },
   {
@@ -220,23 +220,23 @@
     "url": "$XMR_ASIA",
     "icon": "assets/monero.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "82.39%",
-    "uptimeWeek": "89.20%",
-    "uptimeMonth": "97.52%",
+    "uptimeDay": "84.06%",
+    "uptimeWeek": "89.27%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "99.79%",
-    "time": 73,
-    "timeDay": 42,
+    "time": 88,
+    "timeDay": 46,
     "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2024-07-18": 203,
+      "2024-07-18": 205,
       "2024-07-17": 274,
       "2024-07-16": 309,
       "2024-07-15": 260,
-      "2024-07-14": 50
+      "2024-07-14": 42
     }
   },
   {
@@ -276,14 +276,14 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "79.63%",
-    "uptimeWeek": "89.98%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "81.23%",
+    "uptimeWeek": "90.02%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "99.81%",
     "time": 34,
-    "timeDay": 34,
+    "timeDay": 37,
     "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 34,
@@ -292,7 +292,7 @@
       "2024-07-17": 242,
       "2024-07-16": 276,
       "2024-07-15": 227,
-      "2024-07-14": 16
+      "2024-07-14": 12
     }
   }
 ]
