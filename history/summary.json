@@ -114,11 +114,11 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "./assets/monero.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "77.68%",
-    "uptimeWeek": "88.21%",
-    "uptimeMonth": "97.29%",
+    "uptimeDay": "77.67%",
+    "uptimeWeek": "88.27%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "99.77%",
     "time": 52,
     "timeDay": 33,
@@ -126,10 +126,10 @@
     "timeMonth": 34,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-07-23": 187,
+      "2024-07-23": 190,
       "2024-07-22": 396,
       "2024-07-21": 292,
-      "2024-07-20": 318
+      "2024-07-20": 310
     }
   },
   {
@@ -221,11 +221,11 @@
     "url": "$XMR_ASIA",
     "icon": "assets/monero.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "80.18%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "97.59%",
+    "uptimeDay": "80.17%",
+    "uptimeWeek": "89.58%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "99.80%",
     "time": 74,
     "timeDay": 33,
@@ -233,10 +233,10 @@
     "timeMonth": 34,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2024-07-23": 168,
+      "2024-07-23": 170,
       "2024-07-22": 348,
       "2024-07-21": 264,
-      "2024-07-20": 276
+      "2024-07-20": 269
     }
   },
   {
@@ -277,11 +277,11 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "82.59%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "97.84%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "99.82%",
     "time": 33,
     "timeDay": 33,
@@ -289,10 +289,10 @@
     "timeMonth": 33,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2024-07-23": 148,
+      "2024-07-23": 149,
       "2024-07-22": 324,
       "2024-07-21": 249,
-      "2024-07-20": 216
+      "2024-07-20": 212
     }
   }
 ]
