@@ -25,12 +25,12 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.22%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "89.99%",
     "uptimeYear": "98.73%",
     "time": 2853,
     "timeDay": 327,
-    "timeWeek": 2126,
+    "timeWeek": 2244,
     "timeMonth": 1043,
     "timeYear": 3470,
     "dailyMinutesDown": {
@@ -114,11 +114,11 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "./assets/monero.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "74.78%",
-    "uptimeWeek": "87.85%",
-    "uptimeMonth": "97.20%",
+    "uptimeDay": "74.58%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.77%",
     "time": 52,
     "timeDay": 34,
@@ -126,10 +126,10 @@
     "timeMonth": 34,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-07-23": 250,
+      "2024-07-23": 253,
       "2024-07-22": 396,
       "2024-07-21": 292,
-      "2024-07-20": 292
+      "2024-07-20": 285
     }
   },
   {
@@ -221,10 +221,10 @@
     "url": "$XMR_ASIA",
     "icon": "assets/monero.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "77.36%",
-    "uptimeWeek": "89.16%",
+    "uptimeDay": "77.24%",
+    "uptimeWeek": "89.20%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.79%",
     "time": 73,
@@ -233,10 +233,10 @@
     "timeMonth": 34,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2024-07-23": 228,
+      "2024-07-23": 230,
       "2024-07-22": 348,
       "2024-07-21": 264,
-      "2024-07-20": 253
+      "2024-07-20": 247
     }
   },
   {
@@ -277,22 +277,22 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "79.95%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "79.91%",
+    "uptimeWeek": "90.44%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "99.82%",
     "time": 33,
     "timeDay": 34,
     "timeWeek": 32,
     "timeMonth": 33,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2024-07-23": 203,
+      "2024-07-23": 204,
       "2024-07-22": 324,
       "2024-07-21": 249,
-      "2024-07-20": 200
+      "2024-07-20": 179
     }
   }
 ]
