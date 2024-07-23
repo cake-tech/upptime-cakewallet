@@ -114,11 +114,11 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "./assets/monero.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "78.31%",
-    "uptimeWeek": "88.01%",
-    "uptimeMonth": "97.24%",
+    "uptimeDay": "78.11%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "99.77%",
     "time": 53,
     "timeDay": 35,
@@ -126,11 +126,11 @@
     "timeMonth": 34,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-07-23": 142,
+      "2024-07-23": 145,
       "2024-07-22": 396,
       "2024-07-21": 292,
       "2024-07-20": 354,
-      "2024-07-19": 29
+      "2024-07-19": 24
     }
   },
   {
@@ -222,11 +222,11 @@
     "url": "$XMR_ASIA",
     "icon": "assets/monero.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "80.72%",
-    "uptimeWeek": "89.32%",
-    "uptimeMonth": "97.54%",
+    "uptimeDay": "80.61%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "99.80%",
     "time": 75,
     "timeDay": 35,
@@ -234,11 +234,11 @@
     "timeMonth": 34,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-07-23": 128,
+      "2024-07-23": 130,
       "2024-07-22": 348,
       "2024-07-21": 264,
       "2024-07-20": 311,
-      "2024-07-19": 26
+      "2024-07-19": 22
     }
   },
   {
@@ -279,12 +279,12 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "83.05%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "83.02%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "99.82%",
     "time": 33,
     "timeDay": 35,
     "timeWeek": 32,
@@ -294,7 +294,7 @@
       "2024-07-23": 113,
       "2024-07-22": 324,
       "2024-07-21": 249,
-      "2024-07-20": 281
+      "2024-07-20": 248
     }
   }
 ]
