@@ -114,23 +114,23 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "./assets/monero.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "82.43%",
-    "uptimeWeek": "88.21%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "82.48%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "99.78%",
     "time": 52,
-    "timeDay": 33,
+    "timeDay": 34,
     "timeWeek": 32,
     "timeMonth": 34,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-07-25": 55,
+      "2024-07-25": 58,
       "2024-07-24": 305,
       "2024-07-23": 329,
       "2024-07-22": 396,
-      "2024-07-21": 104
+      "2024-07-21": 89
     }
   },
   {
@@ -222,23 +222,23 @@
     "url": "$XMR_ASIA",
     "icon": "assets/monero.png",
     "slug": "xmr-asia-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "85.84%",
-    "uptimeWeek": "89.70%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "85.97%",
+    "uptimeWeek": "89.82%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.80%",
-    "time": 75,
-    "timeDay": 36,
+    "time": 74,
+    "timeDay": 37,
     "timeWeek": 32,
     "timeMonth": 34,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2024-07-25": 49,
+      "2024-07-25": 51,
       "2024-07-24": 259,
       "2024-07-23": 285,
       "2024-07-22": 348,
-      "2024-07-21": 106
+      "2024-07-21": 92
     }
   },
   {
@@ -279,11 +279,11 @@
     "url": "$XMR_USA",
     "icon": "assets/monero.png",
     "slug": "xmr-usa-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "86.70%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "97.85%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "99.82%",
     "time": 33,
     "timeDay": 33,
@@ -295,7 +295,7 @@
       "2024-07-24": 241,
       "2024-07-23": 262,
       "2024-07-22": 324,
-      "2024-07-21": 66
+      "2024-07-21": 62
     }
   }
 ]
